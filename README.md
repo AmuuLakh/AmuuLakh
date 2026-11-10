@@ -16,7 +16,7 @@
 
 ## ✨ About Me
 
-- 🔭 Currently working on **[RecoLab](https://github.com/AmuuLakh/RecoLab)**
+- 🔭 Currently working on **[RecoLab](https://github.com/AmuuLakh/RecoLab) & [risklens-explainable-credit-risk](https://github.com/AmuuLakh/risklens-explainable-credit-risk)**
 - 👨‍💻 Explore my projects on my **[Portfolio](https://amuulakh.github.io/amishaalakhani_portfolio/)**
 - 🌱 Passionate about **Data Analytics, Artificial Intelligence, and building meaningful projects**
 - 📫 Reach me at **amishaalakhani@gmail.com**
