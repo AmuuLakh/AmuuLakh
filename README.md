@@ -111,15 +111,12 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="./assets/stats.svg" height="165" alt="GitHub Stats" />
   <img src="./assets/languages.svg" height="165" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="./assets/activity.svg" width="98%" alt="GitHub Contribution Activity" />
-</p>
-
 ---
 
 ## ✍️ A Little Inspiration
