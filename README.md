@@ -108,16 +108,30 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AmuuLakh&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmuuLakh&theme=nightowl&hide_border=true" height="165" />
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=AmuuLakh&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&show_icons=true"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=AmuuLakh&theme=nightowl&hide_border=true"
+    height="165"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AmuuLakh&theme=nightowl&hide_border=true&layout=compact" />
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=AmuuLakh&theme=nightowl&hide_border=true&layout=compact&langs_count=8"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
+
 
 ---
 
