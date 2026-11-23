@@ -16,7 +16,7 @@
 
 ## ✨ About Me
 
-- 🔭 Currently working on **[risklens-explainable-credit-risk](https://github.com/AmuuLakh/risklens-explainable-credit-risk) & [Personal-RAG-Assistant]https://github.com/AmuuLakh/Personal-RAG-Assistant.git**
+- 🔭 Currently working on **[risklens-explainable-credit-risk](https://github.com/AmuuLakh/risklens-explainable-credit-risk) & [Personal-RAG-Assistant](https://github.com/AmuuLakh/Personal-RAG-Assistant)**
 - 👨‍💻 Explore my projects on my **[Portfolio](https://amuulakh.github.io/amishaalakhani_portfolio/)**
 - 🌱 Passionate about **Data Analytics, Artificial Intelligence, and building meaningful projects**
 - 📫 Reach me at **amishaalakhani@gmail.com**
